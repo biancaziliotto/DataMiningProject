@@ -1,9 +1,0 @@
-Trying out branching
-
-This is written on main branch.
-
-Now, in the branch, I make modifications I am not sure about.
-
-These are only in the branch.
-
-Now I finished so I am sure of the work I have done and can merge this branch into the main branch to put there the things I have worked on.
