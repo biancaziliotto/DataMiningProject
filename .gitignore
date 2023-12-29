@@ -4,3 +4,5 @@ data/
 venv/
 data.zip
 images/
+poetry.lock
+pyproject.toml
