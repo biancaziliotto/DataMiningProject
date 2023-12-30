@@ -3,6 +3,7 @@ data/
 .idea
 venv/
 data.zip
+debugging
 images/
 poetry.lock
 pyproject.toml
