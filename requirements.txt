@@ -9,3 +9,6 @@ seaborn>=0.13.0
 tslearn>=0.6.3
 pyclustering
 gdown
+stumpy
+pyts
+tensorflow
