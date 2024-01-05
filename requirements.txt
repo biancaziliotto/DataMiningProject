@@ -12,3 +12,7 @@ gdown
 stumpy
 pyts
 tensorflow
+wittgenstein
+imblearn
+keras
+keras-tuner
