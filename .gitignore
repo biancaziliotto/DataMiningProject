@@ -9,3 +9,5 @@ poetry.lock
 pyproject.toml
 nn_tuning
 vars.shelve.db
+handsonlab
+images
