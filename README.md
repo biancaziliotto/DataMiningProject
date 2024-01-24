@@ -11,7 +11,7 @@ The analysis experimental results are presented in the file <i>DM_Report</i>.
 ## Quickstart
 
 To download the data (including the datasets resulting from the running of the file <i>1_DU&P.ipynb</i>)
-> sh det_dataset.sh
+> sh get_dataset.sh
 
 The code is all implemented in jupyter notebooks, which should be ran sequentially (order is identified in the notebook's name).
 If you'd like you can avoid running the first notebook to save some time because the resulting <i>final_dataset.csv</i> is downloadable with the previous command.
